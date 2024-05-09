@@ -31,6 +31,18 @@
 * Reinforce the importance of innovation in healthcare and the role of AI-driven solutions like the RAG hospital system chatbot.
 * Encourage readers to explore further and consider implementing similar solutions in their own healthcare organizations.
 ## Call to Action
+
 * Invite readers to share their thoughts or experiences with AI-driven healthcare solutions.
 * Provide links to additional resources or documentation for those interested in learning more about LangChain, Neo4j, or building chatbots in healthcare.
 * Encourage readers to follow your Medium blog for future updates and insights on AI in healthcare.
+
+![image](https://github.com/gurpreetsingh1111/RAG-Hospital-System/assets/84591513/c9773de2-74c6-4af6-9f7d-9312507264b0)
+
+![image](https://github.com/gurpreetsingh1111/RAG-Hospital-System/assets/84591513/668f0614-bafd-48bf-abf6-2879f4064649)
+![image](https://github.com/gurpreetsingh1111/RAG-Hospital-System/assets/84591513/80693873-6ebe-42bc-bb5a-807e4be0eadd)
+![image](https://github.com/gurpreetsingh1111/RAG-Hospital-System/assets/84591513/858bf6ff-e598-4e5a-b014-dd688f5a92b6)
+![image](https://github.com/gurpreetsingh1111/RAG-Hospital-System/assets/84591513/e883ba01-839a-483b-a0e0-a90ed2cd577c)
+![image](https://github.com/gurpreetsingh1111/RAG-Hospital-System/assets/84591513/1da11f71-217c-4b51-a047-a5e80c53a5a4)
+
+
+
